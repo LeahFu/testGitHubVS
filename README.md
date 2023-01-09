@@ -8,3 +8,6 @@ This file is changed to testing GitHub push application
 
 ##testing GitHub From office Computer Twice
 This file is changed to testing GitHub push application
+
+##testing member2 branch
+This is a modify from member2
